@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    stephen Pearson srpearson75@gmail.com
 
 # THANKS
 
